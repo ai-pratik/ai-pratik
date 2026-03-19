@@ -14,7 +14,7 @@
 <!-- Clean status badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-gade)
 [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pratikgade5151@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=flat-square&logo=vercel&logoColor=white)](https://pratik-portfolio-nine.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=flat-square&logo=vercel&logoColor=white)](https://pratik-portfolio-ihot.vercel.app/)
 [![LLM Roadmap](https://img.shields.io/badge/LLM_Roadmap-Open_Source-10B981?style=flat-square&logo=github&logoColor=white)](https://github.com/ai-pratik/llm-roadmap)
 ![Profile Views](https://komarev.com/ghpvc/?username=ai-pratik&style=flat-square&color=6366f1&label=Views)
 
@@ -24,7 +24,7 @@
 
 ## 👋 About
 
-**Associate Software Engineer at Tech Mahindra** · Pune, India
+**Software Engineer at Tech Mahindra** · Pune, India
 
 I build AI-powered automation systems that replace hours of manual work with intelligent pipelines. My focus is on **LLM engineering** — from fine-tuning and RAG systems to autonomous agents that plan, execute, and self-validate.
 
